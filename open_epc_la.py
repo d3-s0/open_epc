@@ -49,7 +49,7 @@ class OpenBEM:
         plt.title('Distribution of Energy Ratings in '+ str(authority_name))
         plt.tight_layout()
 
-        self.save_plot(plt, 'plots/horizontal_bar_plot_rating_records in ' +str(authority_name)+'.png')
+        self.save_plot(plt, 'la_reports/horizontal_bar_plot_rating_records in ' +str(authority_name)+'.png')
 
     def plot_property_type_count(self, authority_name):
         plt.figure(figsize=(12,6))
@@ -57,7 +57,7 @@ class OpenBEM:
         plt.xticks(rotation=45)
         plt.xlabel('Property Type')
         plt.ylabel('Count')
-        plt.savefig(os.path.join('plots/bar_chart_count_prop_by_type in '+str(authority_name)+'.png'))
+        plt.savefig(os.path.join('la_reports/bar_chart_count_prop_by_type in '+str(authority_name)+'.png'))
         plt.close()
 
     def make_report(self, authority_name):
@@ -71,8 +71,8 @@ class OpenBEM:
         content.append(Paragraph(numberEPC, getSampleStyleSheet()['BodyText']))
 
         # Add plots to report
-        content.append(Image('plots/bar_chart_count_prop_by_type in ' +str(authority_name)+'.png', width =400, height=300))
-        content.append(Image('plots/horizontal_bar_plot_rating_records in '+str(authority_name)+'.png', width= 400, height=300))
+        content.append(Image('la_reports/bar_chart_count_prop_by_type in ' +str(authority_name)+'.png', width =400, height=300))
+        content.append(Image('la_reports/horizontal_bar_plot_rating_records in '+str(authority_name)+'.png', width= 400, height=300))
 
         # Make report
         pdf_doc.build(content)

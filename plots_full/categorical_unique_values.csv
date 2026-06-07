@@ -1,0 +1,395 @@
+column_name,unique_value
+current_energy_rating,A
+current_energy_rating,B
+current_energy_rating,C
+current_energy_rating,D
+current_energy_rating,E
+current_energy_rating,F
+current_energy_rating,G
+property_type,Bungalow
+property_type,Flat
+property_type,House
+property_type,Maisonette
+property_type,Park home
+construction_age_band,0
+construction_age_band,1
+construction_age_band,1012
+construction_age_band,1013
+construction_age_band,1014
+construction_age_band,1017
+construction_age_band,1111
+construction_age_band,12
+construction_age_band,13
+construction_age_band,1400
+construction_age_band,1500
+construction_age_band,1590
+construction_age_band,16
+construction_age_band,1600
+construction_age_band,1650
+construction_age_band,1663
+construction_age_band,1685
+construction_age_band,17
+construction_age_band,1700
+construction_age_band,1712
+construction_age_band,1720
+construction_age_band,1726
+construction_age_band,1750
+construction_age_band,1759
+construction_age_band,1763
+construction_age_band,1770
+construction_age_band,1780
+construction_age_band,1783
+construction_age_band,1790
+construction_age_band,1792
+construction_age_band,1796
+construction_age_band,1797
+construction_age_band,1800
+construction_age_band,1803
+construction_age_band,1805
+construction_age_band,1807
+construction_age_band,1809
+construction_age_band,1811
+construction_age_band,1812
+construction_age_band,1816
+construction_age_band,1820
+construction_age_band,1821
+construction_age_band,1824
+construction_age_band,1825
+construction_age_band,1830
+construction_age_band,1835
+construction_age_band,1836
+construction_age_band,1839
+construction_age_band,1840
+construction_age_band,1841
+construction_age_band,1842
+construction_age_band,1848
+construction_age_band,1849
+construction_age_band,1850
+construction_age_band,1851
+construction_age_band,1853
+construction_age_band,1854
+construction_age_band,1855
+construction_age_band,1856
+construction_age_band,1860
+construction_age_band,1861
+construction_age_band,1865
+construction_age_band,1866
+construction_age_band,1867
+construction_age_band,1868
+construction_age_band,1870
+construction_age_band,1871
+construction_age_band,1872
+construction_age_band,1874
+construction_age_band,1875
+construction_age_band,1876
+construction_age_band,1879
+construction_age_band,1880
+construction_age_band,1881
+construction_age_band,1885
+construction_age_band,1886
+construction_age_band,1887
+construction_age_band,1888
+construction_age_band,1889
+construction_age_band,1890
+construction_age_band,1891
+construction_age_band,1892
+construction_age_band,1893
+construction_age_band,1894
+construction_age_band,1895
+construction_age_band,1896
+construction_age_band,1897
+construction_age_band,1899
+construction_age_band,19
+construction_age_band,1900
+construction_age_band,1901
+construction_age_band,1902
+construction_age_band,1903
+construction_age_band,1904
+construction_age_band,1905
+construction_age_band,1906
+construction_age_band,1907
+construction_age_band,1908
+construction_age_band,1910
+construction_age_band,1911
+construction_age_band,1912
+construction_age_band,1913
+construction_age_band,1914
+construction_age_band,1915
+construction_age_band,1918
+construction_age_band,1919
+construction_age_band,1920
+construction_age_band,1921
+construction_age_band,1924
+construction_age_band,1925
+construction_age_band,1927
+construction_age_band,1928
+construction_age_band,1929
+construction_age_band,1930
+construction_age_band,1931
+construction_age_band,1932
+construction_age_band,1933
+construction_age_band,1934
+construction_age_band,1935
+construction_age_band,1937
+construction_age_band,1938
+construction_age_band,1939
+construction_age_band,1940
+construction_age_band,1945
+construction_age_band,1946
+construction_age_band,1947
+construction_age_band,1948
+construction_age_band,1949
+construction_age_band,1950
+construction_age_band,1952
+construction_age_band,1953
+construction_age_band,1954
+construction_age_band,1955
+construction_age_band,1956
+construction_age_band,1957
+construction_age_band,1958
+construction_age_band,1959
+construction_age_band,1960
+construction_age_band,1961
+construction_age_band,1962
+construction_age_band,1963
+construction_age_band,1964
+construction_age_band,1965
+construction_age_band,1966
+construction_age_band,1967
+construction_age_band,1968
+construction_age_band,1969
+construction_age_band,1970
+construction_age_band,1971
+construction_age_band,1972
+construction_age_band,1973
+construction_age_band,1974
+construction_age_band,1975
+construction_age_band,1976
+construction_age_band,1977
+construction_age_band,1978
+construction_age_band,1979
+construction_age_band,1980
+construction_age_band,1981
+construction_age_band,1982
+construction_age_band,1983
+construction_age_band,1984
+construction_age_band,1985
+construction_age_band,1986
+construction_age_band,1987
+construction_age_band,1988
+construction_age_band,1989
+construction_age_band,1990
+construction_age_band,1991
+construction_age_band,1992
+construction_age_band,1993
+construction_age_band,1994
+construction_age_band,1995
+construction_age_band,1996
+construction_age_band,1997
+construction_age_band,1998
+construction_age_band,1999
+construction_age_band,2
+construction_age_band,20
+construction_age_band,2000
+construction_age_band,2001
+construction_age_band,20013
+construction_age_band,2002
+construction_age_band,2003
+construction_age_band,2004
+construction_age_band,2005
+construction_age_band,2006
+construction_age_band,2007
+construction_age_band,2008
+construction_age_band,2009
+construction_age_band,201
+construction_age_band,2010
+construction_age_band,2011
+construction_age_band,2012
+construction_age_band,2013
+construction_age_band,2014
+construction_age_band,2015
+construction_age_band,2016
+construction_age_band,2017
+construction_age_band,2018
+construction_age_band,2019
+construction_age_band,202
+construction_age_band,2020
+construction_age_band,2021
+construction_age_band,2022
+construction_age_band,2023
+construction_age_band,2024
+construction_age_band,2025
+construction_age_band,2026
+construction_age_band,2027
+construction_age_band,2028
+construction_age_band,2029
+construction_age_band,203
+construction_age_band,2030
+construction_age_band,2031
+construction_age_band,2032
+construction_age_band,2033
+construction_age_band,2035
+construction_age_band,204
+construction_age_band,2042
+construction_age_band,2044
+construction_age_band,2046
+construction_age_band,2049
+construction_age_band,206
+construction_age_band,207
+construction_age_band,2076
+construction_age_band,208
+construction_age_band,2081
+construction_age_band,209
+construction_age_band,2090
+construction_age_band,210
+construction_age_band,2100
+construction_age_band,2101
+construction_age_band,2103
+construction_age_band,2104
+construction_age_band,2105
+construction_age_band,2106
+construction_age_band,2107
+construction_age_band,2108
+construction_age_band,2109
+construction_age_band,2112
+construction_age_band,212
+construction_age_band,2121
+construction_age_band,213
+construction_age_band,214
+construction_age_band,215
+construction_age_band,216
+construction_age_band,2202
+construction_age_band,2204
+construction_age_band,2205
+construction_age_band,2322
+construction_age_band,3013
+construction_age_band,5
+construction_age_band,A
+construction_age_band,B
+construction_age_band,C
+construction_age_band,D
+construction_age_band,E
+construction_age_band,England and Wales: 1900-1929
+construction_age_band,England and Wales: 1930-1949
+construction_age_band,England and Wales: 1950-1966
+construction_age_band,England and Wales: 1967-1975
+construction_age_band,England and Wales: 1976-1982
+construction_age_band,England and Wales: 1983-1990
+construction_age_band,England and Wales: 1991-1995
+construction_age_band,England and Wales: 1996-2002
+construction_age_band,England and Wales: 2003-2006
+construction_age_band,England and Wales: 2007 onwards
+construction_age_band,England and Wales: 2007-2011
+construction_age_band,England and Wales: 2012 onwards
+construction_age_band,England and Wales: 2012-2021
+construction_age_band,England and Wales: 2022 onwards
+construction_age_band,England and Wales: before 1900
+construction_age_band,F
+construction_age_band,G
+construction_age_band,H
+construction_age_band,I
+construction_age_band,J
+construction_age_band,K
+construction_age_band,L
+construction_age_band,M
+main_fuel,B30D (community)
+main_fuel,B30K
+main_fuel,B30K (not community)
+main_fuel,Community heating schemes: heat from electric heat pump
+main_fuel,Community heating schemes: heat from mains gas
+main_fuel,Electricity: electricity displaced from grid
+main_fuel,Electricity: electricity sold to grid
+main_fuel,"Electricity: electricity, unspecified tariff"
+main_fuel,Gas: biogas
+main_fuel,Gas: bottled LPG
+main_fuel,Gas: bulk LPG
+main_fuel,Gas: mains gas
+main_fuel,LNG
+main_fuel,LPG (community)
+main_fuel,LPG (not community)
+main_fuel,LPG special condition
+main_fuel,LPG subject to Special Condition 18
+main_fuel,Oil: heating oil
+main_fuel,Solid fuel: anthracite
+main_fuel,Solid fuel: dual fuel appliance (mineral and wood)
+main_fuel,Solid fuel: house coal
+main_fuel,Solid fuel: manufactured smokeless fuel
+main_fuel,Solid fuel: wood chips
+main_fuel,Solid fuel: wood logs
+main_fuel,"Solid fuel: wood pellets (bulk supply in bags, for main heating)"
+main_fuel,"Solid fuel: wood pellets (in bags, for secondary heating)"
+main_fuel,To be used only when there is no heating/hot-water system
+main_fuel,To be used only when there is no heating/hot-water system or data is from a community network
+main_fuel,anthracite
+main_fuel,appliances able to use mineral oil or liquid biofuel
+main_fuel,biodiesel from any biomass source
+main_fuel,biodiesel from used cooking oil only
+main_fuel,biodiesel from vegetable oil only
+main_fuel,biodiesel from vegetable oil only (community)
+main_fuel,biodiesel from vegetable oil only (not community)
+main_fuel,bioethanol
+main_fuel,biogas (community)
+main_fuel,biogas (not community)
+main_fuel,biomass (community)
+main_fuel,bottled LPG
+main_fuel,bulk wood pellets
+main_fuel,coal (community)
+main_fuel,dual fuel - mineral + wood
+main_fuel,electricity (community)
+main_fuel,electricity (not community)
+main_fuel,from heat network data (community)
+main_fuel,heat from boilers that can use mineral oil or biodiesel (community)
+main_fuel,heat from boilers using biodiesel from any biomass source (community)
+main_fuel,house coal (not community)
+main_fuel,mains gas (community)
+main_fuel,mains gas (not community)
+main_fuel,oil (community)
+main_fuel,oil (not community)
+main_fuel,rapeseed oil
+main_fuel,smokeless coal
+main_fuel,waste combustion (community)
+main_fuel,waste combustion - this is for backwards compatibility only and should not be used
+main_fuel,wood chips
+main_fuel,wood logs
+main_fuel,wood pellets in bags for secondary heating
+built_form,Detached
+built_form,Enclosed End-Terrace
+built_form,Enclosed Mid-Terrace
+built_form,End-Terrace
+built_form,Mid-Terrace
+built_form,Not Recorded
+built_form,Semi-Detached
+tenure,Owner-occupied
+tenure,Rented (private)
+tenure,Rented (social)
+tenure,Unknown
+tenure,owner-occupied
+tenure,rented (private)
+tenure,rented (social)
+tenure,unknown
+mains_gas_flag,N
+mains_gas_flag,Y
+walls_energy_eff,Average
+walls_energy_eff,Good
+walls_energy_eff,N/A
+walls_energy_eff,Poor
+walls_energy_eff,Very Good
+walls_energy_eff,Very Poor
+roof_energy_eff,Average
+roof_energy_eff,Good
+roof_energy_eff,N/A
+roof_energy_eff,Poor
+roof_energy_eff,Very Good
+roof_energy_eff,Very Poor
+floor_energy_eff,Average
+floor_energy_eff,Good
+floor_energy_eff,N/A
+floor_energy_eff,Poor
+floor_energy_eff,Very Good
+floor_energy_eff,Very Poor
+windows_energy_eff,Average
+windows_energy_eff,Good
+windows_energy_eff,N/A
+windows_energy_eff,Poor
+windows_energy_eff,Very Good
+windows_energy_eff,Very Poor

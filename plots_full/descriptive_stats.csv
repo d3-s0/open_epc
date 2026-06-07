@@ -1,0 +1,10 @@
+statistic,total_floor_area,energy_consumption_current,current_energy_efficiency,heating_cost_current,current_energy_rating,property_type,construction_age_band,main_fuel,built_form,tenure,mains_gas_flag,walls_energy_eff,roof_energy_eff,floor_energy_eff,windows_energy_eff
+count,23404022.0,23404022.0,23404036.0,23404022.0,23404036,23403917,23404006,22954771,23194833,22413652,15540341,23403917,23403917,23403917,23403917
+null_count,14.0,14.0,0.0,14.0,0,119,30,449265,209203,990384,7863695,119,119,119,119
+mean,88.06713183742521,238.08566075523262,65.84258326213478,744.774390188148,,,,,,,,,,,
+std,52.66569930941714,162.50326054357515,13.846176225274368,677.5792354189631,,,,,,,,,,,
+min,0.0,-320866.0,1.0,-944269.0,A,Bungalow,0,B30D (community),Detached,Owner-occupied,N,Average,Average,Average,Average
+25%,60.0,165.0,59.0,384.0,,,,,,,,,,,
+50%,78.0,220.0,68.0,602.0,,,,,,,,,,,
+75%,100.0,288.0,74.0,907.0,,,,,,,,,,,
+max,9981.0,312273.0,13060.0,201800.0,G,Park home,M,wood pellets in bags for secondary heating,Semi-Detached,unknown,Y,Very Poor,Very Poor,Very Poor,Very Poor

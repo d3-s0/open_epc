@@ -2,3 +2,5 @@
 venv/*
 data/*
 uv.lock
+domestic-csv/*
+.DS_Store

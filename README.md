@@ -6,7 +6,7 @@ The report includes:
 - A graph of the number of EPCs at energy ratings against number of records
 
 ```
-python3 open_bem.py -i /path/to/certificates.csv
+python3 open_epc_la.py -i /path/to/certificates.csv
 ```
 
 Future improvements:
@@ -14,3 +14,9 @@ Future improvements:
 - Allow more than one local authority to be run in one time
 - Improve CLI so you only have to pass in name of authority
 - Add all the data to a DB
+
+# full EPC data plots
+
+```
+python3 open_epc_full.py -results path/to/folder_of_csv_results
+```
